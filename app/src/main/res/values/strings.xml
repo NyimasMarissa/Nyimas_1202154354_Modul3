@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Nyimas_1202154354_Modul3</string>
+    <string name="title_placeholder">Air Mineral</string>
+
+    <string name="sports_info_placeholder">Deskripsi Minuman</string>
+    <string name="text_isi">Air mineral adalah air yang mengandung mineral atau bahan-bahan larut lain yang mengubah rasa atau memberi nilai-nilai terapi. Banyak kandungan Garam, sulfur, dan gas-gas yang larut di dalam air ini. Air mineral biasanya masih memiliki buih. Air mineral bersumber dari mata air yang berada di alam.
+    Keseimbangan tubuh kita terdiri dari 70% air. Jadi jika jumlah air di tubuh kita menurun maka fungsi organ tubuh juga akan menurun. Tubuh menjadi lebih mudah terserang oleh bakteri dan virus. Untuk itu perlu adanya mekanisme dalam mempertahankan keseimbangan asupan air sehingga benar terasa manfaat air bagi kesehatan kita.
+        Rasa haus merupakan mekanisme normal dalam mempertahankan kondisi kesehatan tubuh. Selain itu, peran air mineral juga penting dalam menjaga keseimbangan suhu tubuh. Sumber: wikipedia</string>
+
+    <string name="minus_button">minus_button</string>
+    <string name="plus_button">plus_button</string>
+    <string name="initial_air">initial_litre</string>
+
+    //isi array gambar yang akan ditampilkan dilist
+    <array name="air_image">
+        <item>@drawable/ades</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/aqua</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/club</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/nestle</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/vit</item>
+    </array>
+
+    //isi array nama merek minuman yang akan ditampilkan dilist
+    <array name="air_titles">
+        <item>Ades</item>
+        <item>Amidis</item>
+        <item>Aqua</item>
+        <item>Cleo</item>
+        <item>Club</item>
+        <item>Equil</item>
+        <item>Evian</item>
+        <item>Le Minerale</item>
+        <item>Nestle</item>
+        <item>Pristine</item>
+        <item>Vit</item>
+    </array>
+
+    //isi array informasi merek yang akan ditampilkan dilist
+    <array name="air_info">
+        <item>Ini minuman merek Ades</item>
+        <item>Ini minuman merek Amidis</item>
+        <item>Ini minuman merek Aqua</item>
+        <item>Ini minuman merek Cleo</item>
+        <item>Ini minuman merek Club</item>
+        <item>Ini minuman merek Equil</item>
+        <item>Ini minuman merek Evian</item>
+        <item>Ini minuman merek Le Minerale</item>
+        <item>Ini minuman merek Nestle</item>
+        <item>Ini minuman merek Pristine</item>
+        <item>Ini minuman merek Vit</item>
+    </array>
+
+
+</resources>
